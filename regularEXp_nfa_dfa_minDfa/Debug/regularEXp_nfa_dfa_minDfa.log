@@ -1,0 +1,21 @@
+﻿  main.cpp
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(50,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(68,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(109,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(119,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(203,28): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(219,28): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(244,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(247,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(265,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(273,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(282,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(285,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(287,35): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(308,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(324,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(326,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(349,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(366,39): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(444,27): warning C4018: “<”: 有符号/无符号不匹配
+  regularEXp_nfa_dfa_minDfa.vcxproj -> D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\Debug\regularEXp_nfa_dfa_minDfa.exe
