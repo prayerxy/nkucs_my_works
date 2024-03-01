@@ -1,0 +1,6 @@
+﻿  client_udp.cpp
+D:\大三上\计算机网络\作业\projects\lab3-2\client\client_udp.cpp(116,31): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+D:\大三上\计算机网络\作业\projects\lab3-2\client\client_udp.cpp(142,59): warning C4018: “<=”: 有符号/无符号不匹配
+D:\大三上\计算机网络\作业\projects\lab3-2\client\client_udp.cpp(186,25): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+D:\大三上\计算机网络\作业\projects\lab3-2\client\udp.h(61): warning C4172: 返回局部变量或临时变量的地址: temp
+  client.vcxproj -> D:\大三上\计算机网络\作业\projects\lab3-2\client\x64\Debug\client.exe

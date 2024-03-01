@@ -1,0 +1,22 @@
+﻿  main.cpp
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(46,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(64,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(105,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(115,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(199,28): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(215,28): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(240,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(243,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(261,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(269,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(278,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(281,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(283,35): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(304,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(320,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(322,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(347,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(363,39): warning C4018: “<”: 有符号/无符号不匹配
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(338,9): warning C4101: “size_flag”: 未引用的局部变量
+D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\main.cpp(443,27): warning C4018: “<”: 有符号/无符号不匹配
+  regularEXp_nfa_dfa_minDfa.vcxproj -> D:\大三上\编译原理\实验作业\OT1\regularEXp_nfa_dfa_minDfa\Debug\regularEXp_nfa_dfa_minDfa.exe

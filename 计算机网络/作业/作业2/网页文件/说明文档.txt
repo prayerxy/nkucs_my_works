@@ -1,0 +1,3 @@
+django_xcBlog是django配置的一个web服务器应用。
+myweb是编写的html，与django_xcBlog里面加载的html在加载图片、视频时不一样。
+因为django加载图片、音频需要一个特定的{% load static %}，为了方便这里打开myweb.html直接看到网页，所以做了一点处理
